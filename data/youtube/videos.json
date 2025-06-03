@@ -2,15 +2,61 @@
   "items": [
     {
       "commentCount": 0,
+      "description": "Vous allez apprendre comment faire le routage pour une carte électronique prenant en compte une communication LoRaWAN\n\n#lorawan #electronics #RAK3172 #projects #iot",
+      "duration": "PT10M25S",
+      "featured": false,
+      "id": "BttUf3NmoNY",
+      "kind": "youtube#video",
+      "likeCount": 3,
+      "localized": {
+        "description": null,
+        "title": null
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2025-03-23T16:18:22Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/BttUf3NmoNY/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Routage d'une carte électronique utilisant LoRaWAN (Partie 2 )",
+      "viewCount": 50
+    },
+    {
+      "commentCount": 2,
+      "description": "Dans cette video , vous allez apprendre comment concevoir la carte électronique d'un objet connecté utilisant le réseau LoRaWAN",
+      "duration": "PT8M43S",
+      "featured": false,
+      "id": "iJculxuSBbk",
+      "kind": "youtube#video",
+      "likeCount": 6,
+      "localized": {
+        "description": "In this video, you will learn how to design the electronic card of a connected object using the LoRaWAN network",
+        "title": "Electronic card design using LoRaWAN (PART 1)"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2025-03-09T15:30:27Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/iJculxuSBbk/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Conception carte éléctronique utilisant LoRaWAN (PARTIE 1)",
+      "viewCount": 143
+    },
+    {
+      "commentCount": 0,
       "description": "Ce tutoriel explique comment fonctionne le protocole I2C en utilisant le STM32 en tant que master.  Comme esclave nous aurons le module inertielle   GY521 qui permettra de récupérer de fournir les informations d'accélérations et de vitesses et de température.  Ensuite ces données sont récupérées et envoyées sur le PC via le protocole série (UART)  pour visualisation sur une interface graphique . \n\n\n\n#stm32  #i2c  #arduino #uart #serial #gui",
       "duration": "PT6M54S",
       "featured": false,
       "id": "RzxgBKL5NZA",
       "kind": "youtube#video",
-      "likeCount": 6,
+      "likeCount": 8,
       "localized": {
-        "description": null,
-        "title": null
+        "description": "This tutorial explains how the I2C protocol works using the STM32 as a master. As a slave we will have the inertial module GY521 which will recover and provide acceleration and speed and temperature information. Then this data is retrieved and sent to the PC via the serial protocol (UART) for visualization on a graphical interface. \n\n\n\n#stm32 #i2c #arduino #uart #serial #gui",
+        "title": "Understanding the I2C protocol using STM32"
       },
       "privacyStatus": "public",
       "publishedAt": "2024-04-14T09:30:07Z",
@@ -21,7 +67,7 @@
         "width": 480
       },
       "title": "Comprendre le protocole I2C en utlisant  le STM32",
-      "viewCount": 188
+      "viewCount": 432
     },
     {
       "commentCount": 1,
@@ -30,7 +76,7 @@
       "featured": false,
       "id": "BAHrGPXuY5w",
       "kind": "youtube#video",
-      "likeCount": 5,
+      "likeCount": 8,
       "localized": {
         "description": "In this video, I am introducing a series of videos that will revolve around the Stm32 to explain the basic concepts to know to program this card from its registers.\n\n#stm32 #c #baremetal #tutoriel #formation",
         "title": "STM32 bare metal programming training (Introduction)"
@@ -44,7 +90,7 @@
         "width": 480
       },
       "title": "Formation programmation bare metal STM32 (Introduction)",
-      "viewCount": 158
+      "viewCount": 452
     },
     {
       "commentCount": 0,
@@ -67,7 +113,7 @@
         "width": 480
       },
       "title": "Arduino buzzer christmas song",
-      "viewCount": 65
+      "viewCount": 104
     },
     {
       "commentCount": 0,
@@ -90,7 +136,7 @@
         "width": 480
       },
       "title": "Intégration continue avec Github Actions et GoogleTest (C/C++)",
-      "viewCount": 86
+      "viewCount": 134
     },
     {
       "commentCount": 0,
@@ -113,7 +159,7 @@
         "width": 480
       },
       "title": "Réaliser facilement des tests unitaires avec GoogleTest (C/C++)",
-      "viewCount": 283
+      "viewCount": 630
     },
     {
       "commentCount": 0,
@@ -122,7 +168,7 @@
       "featured": false,
       "id": "6ELIiX0rlh0",
       "kind": "youtube#video",
-      "likeCount": 3,
+      "likeCount": 6,
       "localized": {
         "description": "In this video, we'll show you how to create executables for your projects using a Makefile, while exploring compilation and linkage operations.\n\n🔧 The Makefile is an essential tool for automating the process of compiling and creating executables. We'll take you step-by-step through creating an effective Makefile, showing you how to specify your project dependencies and how to define compilation rules for each source file.\n\n💡 In addition to that, we will discuss compilation and linkage operations. You will learn the different stages of compilation, such as precompilation, compilation, and assembly, as well as the usefulness of compilation options to optimize your binaries. We will also explain how the linkage process allows you to combine all object files into a single executable.\n\nlink to the codes used in the video.\nhttps://github.com/dfdurand/Makexe \n\nuseful link on how to use makefiles\nhttps://makefiletutorial.com/\n\n#executable #makefile #C #C ++ #automation",
         "title": "Easily create executable files with Makefiles"
@@ -136,7 +182,30 @@
         "width": 480
       },
       "title": "Créer facilement des fichiers éxecutables avec des Makefiles",
-      "viewCount": 156
+      "viewCount": 351
+    },
+    {
+      "commentCount": 0,
+      "description": "Dans cette video , on explique les bases simples de Docker et ensuite on présente un projet avec Docker : La conteneurisation d'un serveur nodejs.\n\n#docker  #nodejs #conteneur",
+      "duration": "PT13M21S",
+      "featured": false,
+      "id": "TRvTtfAloT4",
+      "kind": "youtube#video",
+      "likeCount": 5,
+      "localized": {
+        "description": "In this video, we explain the simple basics of Docker and then we present a project with Docker: Containerizing a nodejs server.\n\n#docker #nodejs #conteneur",
+        "title": "Nodejs web server with Docker"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2023-11-07T11:00:32Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/TRvTtfAloT4/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Serveur web nodejs avec Docker",
+      "viewCount": 257
     },
     {
       "commentCount": 1,
@@ -145,7 +214,7 @@
       "featured": false,
       "id": "ZI1440k35qo",
       "kind": "youtube#video",
-      "likeCount": 4,
+      "likeCount": 6,
       "localized": {
         "description": "In this tutorial, we'll show you how to create an augmented reality application using a webcam, OpenCV, ESP32, and FreeRTOS. We're going to use the webcam to capture videos, OpenCV to process the videos and detect fingers, ESP32 to control the lights, and FreeRTOS to manage the system. We will also use a temperature sensor to retrieve temperature and pressure values.\n\nFirst, let's start with setting up the hardware. We are going to connect the webcam to the ESP32 and start it up. Next, we'll connect the temperature sensor to the ESP32 and set it up to measure temperature and pressure.\n\nNext, we are going to move on to the software part. We are going to use OpenCV to process the videos captured by the webcam and to detect fingers in the video stream. We're going to use the ESP32 to control the lights and adjust their brightness and color based on finger detection. We are also going to use FreeRTOS to manage the system and ensure that everything is working properly.\n\nOnce we set up the system, we'll test it and show you how it works. We will use the webcam to capture videos, the temperature sensor to retrieve temperature and pressure values, OpenCV to process the videos and detect hands, and the ESP32 to control the lights.\n\nlink to the codes used in the tutorial\nhttps://github.com/fabriceDurand/Augmented-reality-app-with-Opencv-and-ESP32.git\n\n#esp32 #augmentedreality #freertos #iot #mediapipe #opencv #opencvpython #embedded_systems",
         "title": "How to create an augmented reality application with OpenCV, ESP32 and FreeRTOS"
@@ -159,16 +228,16 @@
         "width": 480
       },
       "title": "Comment créer une application de réalitée augmentée avec OpenCV , l'ESP32 et FreeRTOS",
-      "viewCount": 155
+      "viewCount": 271
     },
     {
-      "commentCount": 1,
+      "commentCount": 2,
       "description": "Découvrez dans cette vidéo comment faire de la programmation temps réel  multitâche en utilisant Arduino et la librairie FreeRTOS.\n\nNous vous présenterons également FreeRTOS, un système d'exploitation en temps réel open source largement utilisé. Vous découvrirez ses fonctionnalités avancées, telles que la planification préemptive, la gestion des tâches et les sémaphores, qui vous permettront de créer des systèmes temps réel robustes et réactifs.\n\nNous ne nous arrêterons pas aux concepts théoriques ! Nous passerons rapidement à la mise en pratique en vous guidant à travers des exemples de code concrets. Vous apprendrez comment créer et gérer des tâches indépendantes avec des priorités différentes, comment synchroniser ces tâches . Nous agrémenterons également la vidéo de démonstrations pratiques, pour que vous puissiez voir en temps réel comment les tâches s'exécutent en parallèle et comment le système réagit de manière fiable aux événements.\n\nlien vers le code présenté dans la vidéo \n\nhttps://github.com/fabriceDurand/Multasking-with-FreeRtos-and-arduino.git \n\n\n#arduino #freertos #multitasking #rtos",
       "duration": "PT11M46S",
       "featured": false,
       "id": "9Si7MQIVInc",
       "kind": "youtube#video",
-      "likeCount": 29,
+      "likeCount": 50,
       "localized": {
         "description": "Discover in this video how to multitask real-time programming using Arduino and the FreeRTOS library.\n\nWe'll also introduce you to FreeRTOS, a widely used open source real-time operating system. You will discover its advanced features, such as preemptive planning, task management, and semaphores, which will allow you to create robust and responsive real-time systems.\n\nWe won't stop at theoretical concepts! We will quickly move on to practical implementation by guiding you through concrete code examples. You will learn how to create and manage independent tasks with different priorities, how to synchronize these tasks. We'll also complement the video with practical demonstrations, so you can see in real time how tasks are running in parallel and how the system reacts reliably to events.\n\nlink to the code shown in the video \n\nhttps://github.com/fabriceDurand/Multasking-with-FreeRtos-and-arduino.git \n\n\n#arduino #freertos #multitasking #rtos",
         "title": "Real-time systems: Multitasking programming with Arduino and FreeRTOS"
@@ -182,16 +251,16 @@
         "width": 480
       },
       "title": "Systèmes temps réel : Programmation multitâche avec Arduino et FreeRTOS",
-      "viewCount": 1287
+      "viewCount": 2487
     },
     {
       "commentCount": 0,
       "description": "Dans cette vidéo je vous explique comment créer et connecter nos objets sur AWS grâce au service AWS IoT core.  Puis nous allons acquérir et visualiser les données de manière sécurisée. \n\nLien du code  pubsub.py \n\nhttps://github.com/fabriceDurand/aws_iot-datas-acquisition\n\n#mqtt #aws #iot  #data  #raspberry",
       "duration": "PT16M14S",
-      "featured": true,
+      "featured": false,
       "id": "VK6rUFdiQ24",
       "kind": "youtube#video",
-      "likeCount": 2,
+      "likeCount": 3,
       "localized": {
         "description": "In this video I show you how to create and connect our objects on AWS using the AWS IoT core service. Then we will acquire and visualize the data in a secure manner. \n\npubsub.py code link \n\nhttps://github.com/fabriceDurand/aws_iot-datas-acquisition\n\n#mqtt #aws #iot #data #raspberry",
         "title": "AWS IoT core: Connect and acquire sensor data on AWS"
@@ -205,7 +274,7 @@
         "width": 480
       },
       "title": "AWS IoT core :  connecter et acquérir les données des capteurs sur AWS",
-      "viewCount": 246
+      "viewCount": 489
     },
     {
       "commentCount": 1,
@@ -214,7 +283,7 @@
       "featured": false,
       "id": "wC5Rzc3bgpA",
       "kind": "youtube#video",
-      "likeCount": 3,
+      "likeCount": 6,
       "localized": {
         "description": "In this video, we will show you in 4 minutes how to install platformio with VS Code to program electronic boards like Arduino, esp32 (8266 too), stm32 and Raspberry.\n\n#platformio #installation #arduino #vscode #raspberry #esp32 #esp8266",
         "title": "INSTALL PLATFORMIO IN 4 MINUTES (WITH VS CODE)"
@@ -228,16 +297,16 @@
         "width": 480
       },
       "title": "INSTALLEZ PLATFORMIO EN 4 MINUTES (AVEC VS CODE)",
-      "viewCount": 406
+      "viewCount": 1129
     },
     {
-      "commentCount": 2,
+      "commentCount": 3,
       "description": "Dans cette vidéo, nous explorons la création d'une intelligence artificielle capable de reconnaître les visages des présidents à l'aide de l'apprentissage profond et des réseaux de neurones convolutifs. Nous commençons par expliquer les différentes étapes du processus, de la collecte des données à la création d'une application web conviviale avec Streamlit.\n\nTout d'abord, nous abordons la collecte des données en rassemblant un vaste ensemble d'images de différents présidents à partir de sources variées. Nous discutons également des défis liés à l'étiquetage manuel des images pour former notre modèle de reconnaissance faciale.\n\nEnsuite, nous explorons les techniques d'augmentation de données pour diversifier notre ensemble d'entraînement. L'augmentation de données implique des transformations telles que la rotation, le recadrage et le changement d'échelle des images pour améliorer la capacité de généralisation de notre modèle.\n\nNous passons ensuite à la création et à l'entraînement de notre modèle de réseau de neurones convolutifs. Nous expliquons les différentes couches du modèle, telles que les couches de convolution, de mise en commun et entièrement connectées, ainsi que leur rôle dans l'apprentissage des caractéristiques des visages présidentiels.\n\nUne fois le modèle entraîné, nous passons à la création d'une application web interactive à l'aide de Streamlit. Cette application permettra aux utilisateurs de télécharger une image contenant le visage d'un président et d'obtenir instantanément une prédiction sur son identité grâce à notre modèle de reconnaissance des visages.\n\nEn suivant cette vidéo, vous acquerrez une compréhension approfondie du processus de création d'une IA de reconnaissance faciale basée sur les réseaux de neurones convolutifs. Vous serez en mesure de reproduire ces étapes pour d'autres applications de reconnaissance d'images. \n\n\nlien du code et des données \nhttps://github.com/fabriceDurand/Face-recogniton-web-app-CNN.git \n\nliens pour comprendre le fonctionnement des CNN \nhttps://medium.com/mlearning-ai/simple-explanation-for-calculating-the-number-of-parameters-in-convolutional-neural-network-33ce0fffb80c\n\nhttps://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1\nhttps://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939\n\n#ia #computervision #python #streamlit  #classification",
       "duration": "PT27M56S",
       "featured": false,
       "id": "AbxVP0HUO4k",
       "kind": "youtube#video",
-      "likeCount": 14,
+      "likeCount": 18,
       "localized": {
         "description": "In this video, we explore creating artificial intelligence that can recognize presidents' faces using deep learning and convolutional neural networks. We start by explaining the various steps in the process, from collecting data to creating a user-friendly web application with Streamlit.\n\nFirst, we approach data collection by bringing together a vast set of images of different presidents from a variety of sources. We also discuss the challenges of manually tagging images to form our facial recognition model.\n\nNext, we explore data augmentation techniques to diversify our training set. Increasing data involves transformations such as rotating, cropping, and scaling images to improve the generalization capacity of our model.\n\nWe then move on to creating and training our convolutional neural network model. We explain the different layers of the model, such as the convolutional, pooling, and fully connected layers, and their role in learning the characteristics of presidential faces.\n\nOnce the model is trained, we move on to creating an interactive web application using Streamlit. This application will allow users to upload an image containing the face of a president and instantly get a prediction about his identity using our face recognition model.\n\nBy following this video, you will gain a thorough understanding of the process of creating a facial recognition AI based on convolutional neural networks. You will be able to replicate these steps for other image recognition applications. \n\n\nCode and data link \nhttps://github.com/fabriceDurand/Face-recogniton-web-app-CNN.git \n\nlinks to understand how CNNs work \nhttps://medium.com/mlearning-ai/simple-explanation-for-calculating-the-number-of-parameters-in-convolutional-neural-network-33ce0fffb80c\n\nhttps://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1\nhttps://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939\n\n#ia #computervision #python #streamlit #classification",
         "title": "Recognizing presidents' faces with an AI based on convolutional neural networks"
@@ -251,7 +320,7 @@
         "width": 480
       },
       "title": "Reconnaissance des visages des présidents avec une IA basée sur les réseaux de neurones convolutifs",
-      "viewCount": 556
+      "viewCount": 908
     },
     {
       "commentCount": 3,
@@ -260,7 +329,7 @@
       "featured": false,
       "id": "YBB7w4-Ti70",
       "kind": "youtube#video",
-      "likeCount": 4,
+      "likeCount": 5,
       "localized": {
         "description": "In this video, we will learn how to create a face and eye detection web application using the OpenCV library and Gradio. First, we're going to learn how to automatically detect faces and eyes in a video, and then we're going to extend this feature to an image. We will also learn how to record detection results. All of this will be accomplished by using the Gradio library to create an intuitive user interface. Follow us step-by-step in this video and you'll be able to create your own face and eye detection web application in no time!\n\nGithub link to the codes in the video \nhttps://github.com/fabriceDurand/Computer-vision/tree/main/Web%20app%20-%20detection\n\n#computervision #opencv #webapp #artificialintelligence #python",
         "title": "Create a web application to detect faces and eyes in a video with Gradio and OpenCV"
@@ -274,7 +343,30 @@
         "width": 480
       },
       "title": "Créer une application web de détection de visages et d'yeux dans une vidéo avec Gradio et OpenCV",
-      "viewCount": 102
+      "viewCount": 226
+    },
+    {
+      "commentCount": 1,
+      "description": "Dans cette vidéo , on explique l'utilité et le fonctionnement de la breadboard.\n Elle montre comment la breadboard permet de connecter facilement les composants électroniques entre eux pour créer des circuits, sans avoir besoin de souder les composants en place. La vidéo donne également des conseils pratiques sur l'utilisation de la breadboard et explique comment elle peut être utilisée pour tester des circuits électroniques avant de les souder sur une carte de circuit imprimé. En résumé, la vidéo est une excellente ressource pour tous ceux qui cherchent à comprendre la breadboard et son fonctionnement.\n\n#breadboard #electronic #électronique #arduino",
+      "duration": "PT5M22S",
+      "featured": false,
+      "id": "rQuqwb8hTCs",
+      "kind": "youtube#video",
+      "likeCount": 55,
+      "localized": {
+        "description": "In this video, we explain the usefulness and operation of the breadboard.\n It shows how the breadboard makes it easy to connect electronic components together to create circuits, without the need to solder the components in place. The video also provides practical tips on using a breadboard and explains how it can be used to test electronic circuits before soldering them onto a printed circuit board. In summary, the video is a great resource for anyone looking to understand breadboarding and how it works.\n\n#breadboard #electronic #électronique #arduino",
+        "title": "The breadboard, an important evolution for electronics (and Arduino)!"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2023-05-14T12:43:49Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/rQuqwb8hTCs/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "La breadboard , une évolution importante pour l''électronique(et Arduino) !",
+      "viewCount": 2928
     },
     {
       "commentCount": 1,
@@ -283,7 +375,7 @@
       "featured": false,
       "id": "vMhCGSxiJu0",
       "kind": "youtube#video",
-      "likeCount": 4,
+      "likeCount": 5,
       "localized": {
         "description": "The video will explain how to use OpenCV to automatically detect faces and eyes in a video and webcam. She will show the different steps to detect faces and eyes using waterfalls of Haar classifiers, and then how to draw rectangles around detected faces and eyes. The video will also show how to use a webcam to detect in real time and how to adjust settings to improve detection accuracy.\n\ngithub link to project code and resources. \nhttps://github.com/fabriceDurand/Computer-vision/tree/main/Web%20app%20-%20detection",
         "title": "How to detect faces and eyes in videos and webcam feeds with OpenCV and Python"
@@ -297,7 +389,7 @@
         "width": 480
       },
       "title": "Comment détecter les visages et les yeux dans les vidéos et les flux de webcam avec OpenCV et Python",
-      "viewCount": 178
+      "viewCount": 361
     },
     {
       "commentCount": 8,
@@ -306,7 +398,7 @@
       "featured": false,
       "id": "kpdFd8RIoOY",
       "kind": "youtube#video",
-      "likeCount": 43,
+      "likeCount": 45,
       "localized": {
         "description": "In this video, we meet the initiators of an engineering community that brings together engineers who have graduated from the Ecole Polytechnique de Douala.\n\nTimeline:\n00:00 to 02:03: Introduction\n02:03 to 03:28:11: Presentation\n03:28:11 to 04:11:19: What is Alumni Enspd?\n04:11:19 to 09:55:03: Motivation at the start of the creation of ALUMNI ENSPD\n09:55:03 to 12:31:05: How did you proceed in a concrete way?\n12:31:05 to 19:50:21: Difficulties encountered\n19:50:21 to 30:17:11: Inspirations of similar associations in the West\n30:17:11 to 37:09:09: ALUMNI ENSPD strength\n37:09:09 to 44:10:22: Future actions\n44:10:22 to End: Conclusion\n\n#alumni #ingenieur #douala #cameroun",
         "title": "The strength of an engineering community in Cameroon (case of Alumni ENSPD)"
@@ -320,7 +412,7 @@
         "width": 480
       },
       "title": "La force d'une communauté d'ingénieurs au Cameroun (cas de Alumni ENSPD)",
-      "viewCount": 893
+      "viewCount": 972
     },
     {
       "commentCount": 0,
@@ -329,7 +421,7 @@
       "featured": false,
       "id": "aM3A4gdji9g",
       "kind": "youtube#video",
-      "likeCount": 3,
+      "likeCount": 5,
       "localized": {
         "description": "In this video, you'll learn how to create a web application using Streamlit to automatically detect faces, eyes, and smiles in an image. First, let's explain how to use OpenCV to detect faces, eyes, and smiles using the Haar Cascade classification file. Next, we'll show how to integrate these functions into a web application using Streamlit.\n\nWe will create a simple user interface to allow the user to upload an image and view the results of detecting faces, eyes, and smiles on the image. We'll also explain how to change settings like scalefactor value and minNeighbors to adjust detection performance.\n\nWe'll also cover how to save detection results to an image file. By the end of this video, you will have a clear understanding of how to build a web application for detecting faces, eyes, and smiles using Streamlit and OpenCV.\n\nGithub code link \nhttps://github.com/fabriceDurand/Computer-vision/tree/main/Web%20app%20-%20detection\n \n#opencv #streamlit #computervision #webapp #python",
         "title": "Create a web application to detect faces, eyes and smiles with Streamlit and OpenCV"
@@ -343,7 +435,7 @@
         "width": 480
       },
       "title": "Créez une application web de détection de visages, yeux et sourires avec Streamlit et OpenCV",
-      "viewCount": 152
+      "viewCount": 261
     },
     {
       "commentCount": 0,
@@ -366,7 +458,7 @@
         "width": 480
       },
       "title": "Comment détecter les visages, les yeux et le sourire dans une image avec Python et OpenCV",
-      "viewCount": 659
+      "viewCount": 891
     },
     {
       "commentCount": 0,
@@ -375,7 +467,7 @@
       "featured": false,
       "id": "nUl9BHqYR4c",
       "kind": "youtube#video",
-      "likeCount": 18,
+      "likeCount": 30,
       "localized": {
         "description": "Calculating the gradient in an image is a very important concept in the process of detecting contours. In this video we will explain how to use the gradient and convolution filters for each edge detection technique such as canny edge detection, laplacian edge detection, etc...\n\nGithub link to the code and images used in the video\n\nhttps://github.com/fabriceDurand/Computer-vision.git \n\n#computervision #artificialintelligence #maths #algorithms #ml #imageprocessing #signalprocessing #opencv",
         "title": "Image gradient and edge detection"
@@ -389,7 +481,7 @@
         "width": 480
       },
       "title": "Gradient d'une image et détection de contours",
-      "viewCount": 1204
+      "viewCount": 1876
     },
     {
       "commentCount": 3,
@@ -398,7 +490,7 @@
       "featured": false,
       "id": "M9Wm49sfyzs",
       "kind": "youtube#video",
-      "likeCount": 16,
+      "likeCount": 23,
       "localized": {
         "description": "The convolution operation is one of the most powerful operations used in image processing and mathematics. In this video we explain to you why convolution filters are the heart of computer vision in view of their importance in various image processing techniques such as edge detection, CNN, etc... \n\nGithub link to the code and images used in the video\n\nhttps://github.com/fabriceDurand/Computer-vision.git \n\n#computervision #artificialintelligence #maths #algorithms #ml #imageprocessing #signalprocessing #opencv",
         "title": "Convolution and image processing in computer vision (Computer Vision)"
@@ -412,7 +504,7 @@
         "width": 480
       },
       "title": "Convolution et traitement d'images en vision par ordinateur ( Computer Vision)",
-      "viewCount": 472
+      "viewCount": 951
     },
     {
       "commentCount": 12,
@@ -435,7 +527,7 @@
         "width": 480
       },
       "title": "L'IA qui remplace ChatGPT en AFRIQUE !",
-      "viewCount": 1280
+      "viewCount": 1336
     },
     {
       "commentCount": 0,
@@ -458,7 +550,30 @@
         "width": 480
       },
       "title": "Importance des  opérations morphologiques en traitement d'images",
-      "viewCount": 48
+      "viewCount": 73
+    },
+    {
+      "commentCount": 1,
+      "description": "Dans cette video , on va apprendre à utiliser Midjourney pour créer un logo et un avatar.",
+      "duration": "PT8M36S",
+      "featured": false,
+      "id": "tOqGkCcG43M",
+      "kind": "youtube#video",
+      "likeCount": 6,
+      "localized": {
+        "description": "In this video, we will learn how to use Midjourney to create a logo and an avatar.",
+        "title": "Midjourney Tutorial"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2023-03-20T13:56:21Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/tOqGkCcG43M/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Tutoriel Midjourney",
+      "viewCount": 101
     },
     {
       "commentCount": 3,
@@ -467,7 +582,7 @@
       "featured": false,
       "id": "51UTAurqTbA",
       "kind": "youtube#video",
-      "likeCount": 6,
+      "likeCount": 8,
       "localized": {
         "description": "In this video we will explain the key steps and concepts to take into account when you want to binarize an image. \n\n\nGithub link to the code and images used in the video\n\nhttps://github.com/fabriceDurand/Computer-vision.git \n\n#computervision #artificialintelligence #maths #algorithms #ml #imageprocessing #signalprocessing #opencv",
         "title": "How do you binarize an image? Threshold concept"
@@ -481,7 +596,30 @@
         "width": 480
       },
       "title": "Comment binariser une image ? Notion de seuillage",
-      "viewCount": 438
+      "viewCount": 647
+    },
+    {
+      "commentCount": 6,
+      "description": "Dans cette vidéo ,  je suis allé voir un ingénieur en génie électrique afin qu'il nous explique les causes des coupures électriques au Cameroun.\n\n Les différents réseaux sociaux de l'ingénieur Abdoul:\n\nLinkedIn : Abdoul Ganiou KARIMOU \nfb: Le Dr @Energie 237 et Other’s\n\n\n#energy #eneo #cameroun #ingenierie #ingenieur #coupure",
+      "duration": "PT37M11S",
+      "featured": false,
+      "id": "4l3kOXMnrOs",
+      "kind": "youtube#video",
+      "likeCount": 42,
+      "localized": {
+        "description": "In this video, I went to see an electrical engineer to get him to explain to us the causes of power cuts in Cameroon.\n\n Engineer Abdoul's various social networks:\n\nLinkedIn: Abdoul Ganiou KARIMOU \nfb: Dr. @Energie 237 and Other's\n\n\n#energy #eneo #cameroun #ingenierie #ingenieur #coupure",
+        "title": "Here's why we have power cuts in the country"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2023-03-13T15:46:20Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/4l3kOXMnrOs/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Voici pourquoi on a les coupures d'électricité au pays",
+      "viewCount": 515
     },
     {
       "commentCount": 0,
@@ -490,7 +628,7 @@
       "featured": false,
       "id": "XSe6xMjqWBY",
       "kind": "youtube#video",
-      "likeCount": 2,
+      "likeCount": 4,
       "localized": {
         "description": "In this video you will understand the importance of an image histogram in signal processing and also know how to use it in a color image (RGB). \n\nGithub repository link for code and images.\n\nhttps://github.com/fabriceDurand/Computer-vision.git \n\n#computervision #artificialintelligence #maths #algorithms #ml #imageprocessing #signalprocessing #opencv",
         "title": "Histogram of an image and the concept of gray level. RGB vs black/white image"
@@ -504,16 +642,62 @@
         "width": 480
       },
       "title": "Histogramme d'une image et notion de niveau de gris . Image RGB vs Noir/blanc",
-      "viewCount": 367
+      "viewCount": 644
     },
     {
-      "commentCount": 1,
+      "commentCount": 8,
+      "description": "Dans cette video , on a interviewé un ingénieur en génie civil .\nIl nous a parlé de son entreprise , son salaire et aussi de l'actualité.\n\n#geniecivil #ingenieur #formation #desastre #turquie #salaires #cameroun \n#competence",
+      "duration": "PT24M59S",
+      "featured": false,
+      "id": "bBG_RMXVhnE",
+      "kind": "youtube#video",
+      "likeCount": 96,
+      "localized": {
+        "description": "In this video, we interviewed a civil engineer.\nHe told us about his company, his salary and also about the latest news.\n\n#geniecivil #ingenieur #formation #desastre #turquie #salaires #cameroun \n#competence",
+        "title": "Civil engineering in Cameroon: The professional world with engineer Essoh Ariel"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2023-03-07T15:19:34Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/bBG_RMXVhnE/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Le génie civil au Cameroun : Le monde professionnel avec l'ingénieur Essoh Ariel",
+      "viewCount": 3819
+    },
+    {
+      "commentCount": 0,
+      "description": "",
+      "duration": "P0D",
+      "featured": false,
+      "id": "ZYkowGUWvv4",
+      "kind": "youtube#video",
+      "likeCount": 0,
+      "localized": {
+        "description": null,
+        "title": "ENGINEERING SPACE live stream"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2023-03-05T12:28:26Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/ZYkowGUWvv4/hqdefault_live.jpg",
+        "width": 480
+      },
+      "title": "Diffusion en direct de ENGINEERING SPACE",
+      "viewCount": 0
+    },
+    {
+      "commentCount": 2,
       "description": "Dans ce tutoriel  on vous parle des notions de bases en Mathématiques et en algorithmes à connaitre pour bien s'en sortir dans le domaine de la vision par ordinateur. Puis nous parlons des applications du computer vision dans le monde réel .\n\n#computervision #artificialintelligence #maths #algorithms #ml",
       "duration": "PT13M34S",
       "featured": false,
       "id": "y6iDNw0XYvE",
       "kind": "youtube#video",
-      "likeCount": 33,
+      "likeCount": 55,
       "localized": {
         "description": "In this tutorial we talk to you about the basic concepts in Mathematics and algorithms you need to know to do well in the field of computer vision. Then we talk about computer vision applications in the real world.\n\n#computervision #artificialintelligence #maths #algorithms #ml",
         "title": "The basics and applications of computer vision (Computer Vision)"
@@ -527,7 +711,7 @@
         "width": 480
       },
       "title": "Les notions de bases et applications  de la vision par ordinateur (Computer Vision)",
-      "viewCount": 1385
+      "viewCount": 2218
     },
     {
       "commentCount": 1,
@@ -536,7 +720,7 @@
       "featured": false,
       "id": "x_pPKb-s0Ro",
       "kind": "youtube#video",
-      "likeCount": 13,
+      "likeCount": 14,
       "localized": {
         "description": "In this video, I show you the ranking of the most followed Cameroonian musical artists from the beginning of 2022 until February 14, 2023. \nNext, I'll explain to you, basically, how I went about it.\nI mainly used the Python computer language throughout my work.\n\n#musique #cameroun #project #classement #python #artiste #webscraping #beautifulsoup #cameroun #youtube",
         "title": "I am ranking Cameroonian musicians on YouTube!"
@@ -550,7 +734,7 @@
         "width": 480
       },
       "title": "Je fais le classement des musiciens camerounais sur Youtube!",
-      "viewCount": 202
+      "viewCount": 358
     },
     {
       "commentCount": 1,
@@ -559,7 +743,7 @@
       "featured": false,
       "id": "wJRLbCUfk94",
       "kind": "youtube#video",
-      "likeCount": 23,
+      "likeCount": 34,
       "localized": {
         "description": "This video talks in a fairly general way about the concepts to know before starting out in computer vision. The aim is to identify the pillars of this discipline. We discuss the concepts of images and videos, then the different types of cameras and their specificities. Then it is important to know the different computing powers such as CPUs, GPUs and TPUs as well as the different microcontrollers used, Nvidia jetson nano, Coral from Google, Google Coral, Google, Raspberry pi, etc... \nKnow which frameworks (OpenCV, YOLO,...) are used and what artificial intelligence technologies such as neural networks (CNN,...) and Machine learning algorithms are used.\n\n#computervision #artificialintelligence #maths #algorithms #ml",
         "title": "What do you need to know before starting out in Computer Vision?"
@@ -573,7 +757,7 @@
         "width": 480
       },
       "title": "Que savoir avant de débuter en vision par ordinateur (Computer Vision)?",
-      "viewCount": 586
+      "viewCount": 865
     },
     {
       "commentCount": 1,
@@ -582,7 +766,7 @@
       "featured": false,
       "id": "lMyN7Jydf_o",
       "kind": "youtube#video",
-      "likeCount": 8,
+      "likeCount": 11,
       "localized": {
         "description": "With the advent of Industry 4.0, connected objects and mass data have become the basis and raw material for companies for their development and the response to a world that is becoming more and more digital/digital. What are the mechanisms and strategies adopted by companies to optimize costs and overcome the problems of physical infrastructure or missing storage? skilled workers? ... In this video, we provide you with some answers. \n\n#cloud #clouds #edgecomputing #iot",
         "title": "importance of the Cloud ☁️ | Edge | Fog computing in IoT"
@@ -596,7 +780,7 @@
         "width": 480
       },
       "title": "importance du  Cloud ☁️ | Edge | Fog computing dans l'IoT",
-      "viewCount": 358
+      "viewCount": 471
     },
     {
       "commentCount": 0,
@@ -605,7 +789,7 @@
       "featured": false,
       "id": "t4Z4pWMkXOA",
       "kind": "youtube#video",
-      "likeCount": 8,
+      "likeCount": 7,
       "localized": {
         "description": "#police #usinage #ingenierie #ingénieur #solidworks #solidcam #cnc \n#metal",
         "title": "Designing a font sign"
@@ -619,16 +803,16 @@
         "width": 480
       },
       "title": "Conception d'un panneau de police",
-      "viewCount": 322
+      "viewCount": 343
     },
     {
-      "commentCount": 3,
+      "commentCount": 6,
       "description": "Dans cette vidéo on vous explique comment concevoir une carte électronique d'un adaptateur secteur avec le logiciel Proteus .\n\n\n#proteus  #electronic #pcb",
       "duration": "PT6M46S",
       "featured": false,
       "id": "NPmjRhKuWlM",
       "kind": "youtube#video",
-      "likeCount": 4,
+      "likeCount": 5,
       "localized": {
         "description": "In this video we explain how to design an electronic card for a power adapter with the Proteus software.\n\n\n#proteus #electronic #pcb",
         "title": "Design and size your electronic cards with Proteus"
@@ -642,7 +826,7 @@
         "width": 480
       },
       "title": "Concevoir et dimensionner vos cartes electroniques avec Proteus",
-      "viewCount": 613
+      "viewCount": 844
     },
     {
       "commentCount": 0,
@@ -651,7 +835,7 @@
       "featured": false,
       "id": "NBdP0mBb86I",
       "kind": "youtube#video",
-      "likeCount": 9,
+      "likeCount": 10,
       "localized": {
         "description": "#arduino #iot #electronic",
         "title": "Switch on a lamp with your hands"
@@ -665,7 +849,30 @@
         "width": 480
       },
       "title": "Allumer une lampe avec vos mains",
-      "viewCount": 111
+      "viewCount": 154
+    },
+    {
+      "commentCount": 5,
+      "description": "Dans cette vidéo ,  on va vous expliquer sommairement ce que c'est le webscraping!\n\n#webscraping\n#webscraper \n#facebook \n#ingenieur\n#web \n#website \n#python \n#beautifulsoup \n#scrapy \n#selenium \n#bot",
+      "duration": "PT5M47S",
+      "featured": false,
+      "id": "6KD648TUEVE",
+      "kind": "youtube#video",
+      "likeCount": 23,
+      "localized": {
+        "description": "In this video, we will briefly explain to you what webscraping is!\n\n#webscraping\n#webscraper \n#facebook \n#ingenieur\n#web \n#website \n#python \n#beautifulsoup \n#scrapy \n#selenium \n#bot",
+        "title": "What is Webscraping? (Danger!)"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-09-19T06:51:28Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/6KD648TUEVE/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "C'est quoi le Webscraping? (Danger!)",
+      "viewCount": 590
     },
     {
       "commentCount": 1,
@@ -674,7 +881,7 @@
       "featured": false,
       "id": "EmwxGvA3CIw",
       "kind": "youtube#video",
-      "likeCount": 28,
+      "likeCount": 31,
       "localized": {
         "description": null,
         "title": "Electricity Test Bench"
@@ -688,7 +895,7 @@
         "width": 480
       },
       "title": "Banc D'essai d'électricité",
-      "viewCount": 1413
+      "viewCount": 1924
     },
     {
       "commentCount": 0,
@@ -711,7 +918,53 @@
         "width": 480
       },
       "title": "Impression 3D Homme",
-      "viewCount": 172
+      "viewCount": 187
+    },
+    {
+      "commentCount": 9,
+      "description": "Dans cette vidéo,  on va à la rencontre d'un ingénieur en Robotique Industrielle de l'ENSPD,  qui va essayer de part son experience nous parler de ce qu'un étudiant peut faire pour avoir une meilleure insertion professionnelle à sa sortie de l'école. \n\n#ingenierie  #labred\n#entreprise #orientation \n#interview  #ingénieur\n#enspd  #robotique",
+      "duration": "PT16M17S",
+      "featured": false,
+      "id": "1vG0qTOsOzw",
+      "kind": "youtube#video",
+      "likeCount": 54,
+      "localized": {
+        "description": "In this video, we are going to meet an Industrial Robotics engineer from ENSPD, who will try from his experience to tell us about what a student can do to have a better professional integration after leaving school. \n\n#ingenierie #labred\n#entreprise #orientation \n#interview #ingénieur\n#enspd #robotique",
+        "title": "“Going to school and winning contracts”: Professional integration"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-08-27T05:27:51Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/1vG0qTOsOzw/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "\"Etre à l'école et gagner des contrats\" : Insertion professionnelle",
+      "viewCount": 469
+    },
+    {
+      "commentCount": 4,
+      "description": "Dans cette vidéo,  nous decrivons la soutenance d'un ingénieur en génie informatique et TÉLÉCOM de l'Ecole Nationale Supérieure polytechnique De Douala (ENSPD).\n\n#ingenierie #soutenance #genie #informatique \n#Douala  #telecom #réseau",
+      "duration": "PT5M29S",
+      "featured": false,
+      "id": "3KDXidRaVj8",
+      "kind": "youtube#video",
+      "likeCount": 86,
+      "localized": {
+        "description": "In this video, we describe the defense of an engineer in computer and telecom engineering from the Ecole Nationale Supérieure Polytechnique De Douala (ENSPD).\n\n#ingenierie #soutenance #genie #informatique \n#Douala #telecom #réseau",
+        "title": "ENSPD engineering defense: Computer and Telecom Engineering course"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-08-14T06:50:36Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/3KDXidRaVj8/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Soutenance ingénieur ENSPD: Filière Génie Informatique  et Télécom",
+      "viewCount": 2959
     },
     {
       "commentCount": 0,
@@ -734,7 +987,7 @@
         "width": 480
       },
       "title": "Contrôler une led/lampe avec la souris de l'ordinateur 🤔",
-      "viewCount": 184
+      "viewCount": 226
     },
     {
       "commentCount": 0,
@@ -743,7 +996,7 @@
       "featured": false,
       "id": "yMtLvCbxc5s",
       "kind": "youtube#video",
-      "likeCount": 6,
+      "likeCount": 7,
       "localized": {
         "description": "In this, we explain how to properly structure your Labview code using sub VI. Very practical and makes it easy to use your codes in various other projects\n\nLink to our Telegram channel\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n\n#labview #scada #scadaprogramming #scadasystem",
         "title": "How to create subVIs with Labview: practical case, temperature evolution and statistics"
@@ -757,7 +1010,30 @@
         "width": 480
       },
       "title": "Comment créer des sous VI avec Labview :  cas pratique évolution de température et statistiques",
-      "viewCount": 750
+      "viewCount": 902
+    },
+    {
+      "commentCount": 12,
+      "description": "Dans cette video , nous assistons à une soutenance  dans la filière Génie civil à l'ENSPD \n\n#ingenierie #ingénieur #interview #soutenance \n#geniecivil",
+      "duration": "PT5M15S",
+      "featured": false,
+      "id": "k0LPCDwKVWs",
+      "kind": "youtube#video",
+      "likeCount": 68,
+      "localized": {
+        "description": "In this video, we are attending a defense in the Civil Engineering course at ENSPD \n\n#ingenierie #ingénieur #interview #soutenance \n#geniecivil",
+        "title": "Engineering defense at ENSPD: Civil Engineering course"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-08-04T07:30:59Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/k0LPCDwKVWs/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Soutenance ingénieur à l'ENSPD: Filière Genie Civil",
+      "viewCount": 2339
     },
     {
       "commentCount": 2,
@@ -789,7 +1065,7 @@
       "featured": false,
       "id": "GTS8_kXYqdU",
       "kind": "youtube#video",
-      "likeCount": 18,
+      "likeCount": 21,
       "localized": {
         "description": "This video shows how to monitor the water level of a tank or water tower step by step\n\nLink to our Telegram channel\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n\n#labview #scada #scadaprogramming #scadasystem",
         "title": "Labview: Control and supervision of the water level of a reservoir"
@@ -803,7 +1079,30 @@
         "width": 480
       },
       "title": "Labview: Contrôle et supervision du niveau d'eau d'un réservoir",
-      "viewCount": 1503
+      "viewCount": 1849
+    },
+    {
+      "commentCount": 5,
+      "description": "Dans cette vidéo, on introduit les soutenances à l'ENSPD et nous présentons celle de l'ingénieur Nchofon qui partage avec nous des craintes et ambitions.\nDe plus son mémoire Porte sur un système de collecte , stockage et gestion des données en milieu medical.\n\n#université #Health #felicitation  #raspberry #memoire #python #flask",
+      "duration": "PT9M17S",
+      "featured": false,
+      "id": "h2caFaettgc",
+      "kind": "youtube#video",
+      "likeCount": 66,
+      "localized": {
+        "description": "In this video, we introduce the defenses at ENSPD and we present that of engineer Nchofon who shares fears and ambitions with us.\nIn addition, his thesis focuses on a system for collecting, storing and managing data in a medical environment.\n\n#université #Health #felicitation #raspberry #memoire #python #flask",
+        "title": "Submissions at ENSPD in 2022: Engineer Nchofon"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-07-28T07:36:22Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/h2caFaettgc/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Les soutenances à l'ENSPD en 2022: L'ingénieur Nchofon",
+      "viewCount": 1302
     },
     {
       "commentCount": 1,
@@ -812,7 +1111,7 @@
       "featured": false,
       "id": "tC0ILvBpb8A",
       "kind": "youtube#video",
-      "likeCount": 12,
+      "likeCount": 14,
       "localized": {
         "description": "#arduino #rfid",
         "title": "RFID badge and contactless security access"
@@ -826,16 +1125,16 @@
         "width": 480
       },
       "title": "Badge RFID et accès de securité sans contact",
-      "viewCount": 265
+      "viewCount": 368
     },
     {
       "commentCount": 1,
       "description": "Ce petit tutoriel montre comment automatiser ou simuler une chaîne de production industrielle avec le module de supervison DSC (Datalogging and Supervisory Control) de Labview\n\nlien de notre canal télégram\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n\n#labview #scada #automation #supervision  #dsc",
       "duration": "PT10M7S",
-      "featured": true,
+      "featured": false,
       "id": "2SCN2leGfmo",
       "kind": "youtube#video",
-      "likeCount": 17,
+      "likeCount": 20,
       "localized": {
         "description": "This short tutorial shows how to automate or simulate an industrial production chain with Labview's DSC (Datalogging and Supervisory Control) supervision module\n\nLink to our Telegram channel\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n\n#labview #scada #automation #supervision #dsc",
         "title": "SCADA system: Automating an industrial production line with Labview"
@@ -849,7 +1148,30 @@
         "width": 480
       },
       "title": "Système scada:  Automatisation d'une chaîne de production industrille avec Labview",
-      "viewCount": 1483
+      "viewCount": 1940
+    },
+    {
+      "commentCount": 12,
+      "description": "Dans cette vidéo on va à la rencontre d'un ingénieur qui est aussi entrepreneur. De fort de son experience dans les concours grâce à son entreprise,  il partage avec nous les informations et conseils pour des jeunes qui aimeraient faire de bonne études supérieures\n\n#concours  #orientation #ENSPD #enspy\n#iut  # medecine  #ingenierie #épreuves \n\nVoici le lien Facebook de la page de son entreprise intellect:\nhttps://www.facebook.com/Intellectcameroun/",
+      "duration": "PT27M56S",
+      "featured": false,
+      "id": "LQaeJBEwMCk",
+      "kind": "youtube#video",
+      "likeCount": 39,
+      "localized": {
+        "description": "In this video we meet an engineer who is also an entrepreneur. With his experience in competitions thanks to his company, he shares with us information and advice for young people who would like to have a good higher education.\n\n#concours #orientation #ENSPD #enspy\n#iut # medicine #ingenierie #épreuves \n\nHere is the Facebook link to the page of his company intellect:\nhttps://www.facebook.com/Intellectcameroun/",
+        "title": "How to pass the exams (In Cameroon)?"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-07-17T16:34:37Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/LQaeJBEwMCk/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Comment passer les concours (Au Cameroun)?",
+      "viewCount": 2121
     },
     {
       "commentCount": 1,
@@ -858,7 +1180,7 @@
       "featured": false,
       "id": "F4k_PvLr1nY",
       "kind": "youtube#video",
-      "likeCount": 28,
+      "likeCount": 30,
       "localized": {
         "description": "With the significant growth of data in the IoT, non-relational databases have gained popularity because they are adapted to store data in bulk. \nThis tutorial explains how to store your sensor values in a NoSQL database. \n\nThe code to be used in the video\nhttps://github.com/fabriceDurand/esp32_mongoDb.git\n\nDownload and install the MongoDB server\nhttps://www.mongodb.com/try/download/community\n\nDownload compass the MongoDB user interface\nhttps://www.mongodb.com/try/download/compass\n\nLink to our Telegram channel\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n\n#esp32 #nosql #arduino #mongodb #python",
         "title": "Use MongoDB and ESP32 to store sensor data in a NoSQL database"
@@ -872,7 +1194,7 @@
         "width": 480
       },
       "title": "Utiliser MongoDB et ESP32 pour enregistrer les données des capteurs dans une base de données NoSQL",
-      "viewCount": 2015
+      "viewCount": 2182
     },
     {
       "commentCount": 0,
@@ -881,7 +1203,7 @@
       "featured": false,
       "id": "Pt8_sRrg3NI",
       "kind": "youtube#video",
-      "likeCount": 10,
+      "likeCount": 14,
       "localized": {
         "description": "This tutorial allows you to get started with oriented programming with Python by creating a ticket reservation application and saving all the data in an SQLite database. \n\nThe link to the project code \nhttps://github.com/fabriceDurand/ticketReservation.git\n\nDB Browser for SQLite software link\nhttps://sqlitebrowser.org/\n\nLink to our Telegram channel\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n#python #sqlite3 #sql #ui #poo",
         "title": "Object Oriented Programming with Python: ticket reservation management application, and SQLite DB"
@@ -895,7 +1217,7 @@
         "width": 480
       },
       "title": "Programmation Orientée Objet avec python: application gestion réservation de tickets , et BD SQLite",
-      "viewCount": 800
+      "viewCount": 1029
     },
     {
       "commentCount": 2,
@@ -904,7 +1226,7 @@
       "featured": false,
       "id": "euHjSut3c1E",
       "kind": "youtube#video",
-      "likeCount": 7,
+      "likeCount": 8,
       "localized": {
         "description": "In this tutorial shows how to create a desktop application for managing a library with Python and storing it in a local database with SQLite. You will be able to integrate a database into a concrete project \n\nlink to the project code \nhttps://github.com/fabriceDurand/gestionBibliotheque.git\n\nDB Browser for SQLite management software link\nhttps://sqlitebrowser.org/\n\nlink to our Telegram channel\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n#python #sqlite3 #sql",
         "title": "Desktop Library Management Application: Storage in an SQLite &python database"
@@ -918,7 +1240,7 @@
         "width": 480
       },
       "title": "Application desktop de Gestion d'une Bibliothèque : stockage dans une base de données SQLite &python",
-      "viewCount": 1021
+      "viewCount": 1391
     },
     {
       "commentCount": 2,
@@ -927,7 +1249,7 @@
       "featured": false,
       "id": "q5FrQSL8DoA",
       "kind": "youtube#video",
-      "likeCount": 10,
+      "likeCount": 11,
       "localized": {
         "description": "This is part 2 of the first professional integration video with an engineer who is also an entrepreneur. \nHe shares his experience and advice with us.\n\nLink to the Facebook page that allows access to Pro-Design Office training courses\nhttps://www.facebook.com/prodesignoffice\n\nLink to apply: https://m.facebook.com/story.php?story_fbid=pfbid02xnyLu2C95x3Etmyx2kFTsHTBpMbKXynoviUffZTqaX666mumsRnC2gJDMetiQAUJl&id=100076334401976\n\n\n#professional #interview #ingenierie #conseils #orientation #école #ENSPD",
         "title": "professional integration"
@@ -941,16 +1263,39 @@
         "width": 480
       },
       "title": "insertion professionnelle",
-      "viewCount": 182
+      "viewCount": 184
     },
     {
-      "commentCount": 0,
+      "commentCount": 6,
+      "description": "Dans cette vidéo , Nous rencontrons in ingénieur qui explique comment s'est déroulé son insertion professionnelle et il donne également des conseils pour une meilleure insertion professionnelle pour les étudiants ingénieurs\n\n#ingenierie  #ingénieur #insertionprofessionnelle #interview\n\n\n\nLien de la page Facebook permet d'avoir accès à toutes les formations de l'entreprise Pro-Design Office:\n\nhttps://www.facebook.com/prodesignoffice\n\n\nLien pour postuler pour un stage:\n\nhttps://m.facebook.com/story.php?story_fbid=pfbid02xnyLu2C95x3Etmyx2kFTsHTBpMbKXynoviUffZTqaX666mumsRnC2gJDMetiQAUJl&id=100076334401976",
+      "duration": "PT21M43S",
+      "featured": false,
+      "id": "Bcn4S2f5cYA",
+      "kind": "youtube#video",
+      "likeCount": 28,
+      "localized": {
+        "description": "In this video, we meet an engineer who explains how his professional integration took place and he also gives advice for better professional integration for engineering students.\n\n#ingenierie #ingénieur #insertionprofessionnelle #interview\n\n\n\nLink to the Facebook page allows access to all Pro-Design Office training courses:\n\nhttps://www.facebook.com/prodesignoffice\n\n\nLink to apply for an internship:\n\nhttps://m.facebook.com/story.php?story_fbid=pfbid02xnyLu2C95x3Etmyx2kFTsHTBpMbKXynoviUffZTqaX666mumsRnC2gJDMetiQAUJl&id=100076334401976",
+        "title": "“You have to look for skills first!!!” : Professional integration"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-06-26T12:54:28Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/Bcn4S2f5cYA/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "\"Il faut chercher les compétences d'abord!!!\" : Insertion Professionnelle",
+      "viewCount": 349
+    },
+    {
+      "commentCount": 1,
       "description": "Dans ce tutoriel on montre comment utiliser la plateforme cloud  IoT   d'arduino pour controler et visualiser les données sur un ordinateur ou sur téléphone portable.  Vous pourrez programmer l'esp32 ou un arduino sans avoir à installer l'ide arduino  et créer facilement vos dashboards pour la visualisation , et vous pourrez aussi retrouver n'importe quand et où les codes de vos différents projets. \n\nLien vers la plateforme\n\nhttps://docs.arduino.cc/cloud/iot-cloud\n\nlien vers l'installation de  l'agent arduino  \nhttps://create.arduino.cc/getting-started/plugin/download?_gl=1*1tzde12*_ga*ODM2NzM1MzY2LjE2NTEyNTk2OTY.*_ga_NEXN8H46L5*MTY1NjE0Nzg4Mi40LjEuMTY1NjE1NDcxNS4yMA..\n \nnotre canal telegram\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n#iot #clouds #arduino #esp32",
       "duration": "PT18M36S",
       "featured": false,
       "id": "6Nk9nxw9NRc",
       "kind": "youtube#video",
-      "likeCount": 13,
+      "likeCount": 17,
       "localized": {
         "description": "In this tutorial we show how to use the Arduino IoT cloud platform to control and visualize data on a computer or mobile phone. You can program the esp32 or an Arduino without having to install the Arduino IDE and easily create your dashboards for visualization, and you can also find the codes of your various projects anytime and anywhere. \n\nLink to the platform\n\nhttps://docs.arduino.cc/cloud/iot-cloud\n\nlink to installing the Arduino agent \nhttps://create.arduino.cc/getting-started/plugin/download?_gl=1*1tzde12*_ga*ODM2NzM1MzY2LjE2NTEyNTk2OTY.*_ga_NEXN8H46L5*MTY1NjE0Nzg4Mi40LjEuMTY1NjE1NDcxNS4yMA..\n \nour Telegram channel\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n#iot #clouds #arduino #esp32",
         "title": "Arduino Cloud IoT: easily manage, program, visualize and control your IoT projects"
@@ -964,7 +1309,7 @@
         "width": 480
       },
       "title": "Arduino Cloud IoT :  gérer , programmer, visualiser et contrôler  facilement  vos projets IoT",
-      "viewCount": 1749
+      "viewCount": 2245
     },
     {
       "commentCount": 2,
@@ -987,16 +1332,16 @@
         "width": 480
       },
       "title": "Ihm (Interface Homme Machine) sur Matlab sans utiliser l'outil guide",
-      "viewCount": 825
+      "viewCount": 1027
     },
     {
-      "commentCount": 4,
+      "commentCount": 5,
       "description": "Ce tutoriel explique comment intégrer le protocole MQTT dans nos projets domotique ou systèmes embarqués .\nNous allons montrer comment afficher les valeurs des capteurs dans une applications web et aussi commander \nles appareils connecter àl'ESP32\n\ncode de la vidéo\nhttps://github.com/fabriceDurand/ESP32_MQTT.git\n\nprotocole MQTT et bases de données\nhttps://youtu.be/-hBY26V6yCA\n\n\ninstaller le broker Mosquito\nhttps://mosquitto.org/download/\n\n\ninstaller l'explorer MQTT\nhttp://mqtt-explorer.com/\n\n\ndocumentation Broker mosquittto\nhttps://mosquitto.org/man/mosquitto-8...\n\n\ndocumentation souscription sur un broker\nhttps://mosquitto.org/man/mosquitto_s...\n\n\ndocumentation  publication sur un broker \nhttps://mosquitto.org/man/mosquitto_p...\n\n\ninstaller node-red et les dashboards utiliser dans la vidéo\nhttps://youtu.be/9UBIWLvIMEs\n\nNotre canal télégram\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n\n\n#iot #mqtt #broker #nodered  #esp32 #arduino",
       "duration": "PT13M49S",
       "featured": false,
       "id": "CjhmHxRSbNw",
       "kind": "youtube#video",
-      "likeCount": 17,
+      "likeCount": 20,
       "localized": {
         "description": "This tutorial explains how to integrate the MQTT protocol into our home automation projects or embedded systems.\nWe will show how to display sensor values in a web application and also control \nThe devices connected to the ESP32\n\nVideo code\nhttps://github.com/fabriceDurand/ESP32_MQTT.git\n\nMQTT protocol and databases\nhttps://youtu.be/-hBY26V6yCA\n\n\nInstall the Mosquito broker\nhttps://mosquitto.org/download/\n\n\ninstall the MQTT explorer\nhttp://mqtt-explorer.com/\n\n\nBroker Mosquittto documentation\nhttps://mosquitto.org/man/mosquitto-8...\n\n\nunderwriting documentation on a broker\nhttps://mosquitto.org/man/mosquitto_s...\n\n\nDocumentation publication on a broker \nhttps://mosquitto.org/man/mosquitto_p...\n\n\ninstall node-red and the dashboards to use in the video\nhttps://youtu.be/9UBIWLvIMEs\n\nOur Telegram channel\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n\n\n#iot #mqtt #broker #nodered #esp32 #arduino",
         "title": "esp32 interaction and MQTT server: system control and data visualization"
@@ -1010,7 +1355,7 @@
         "width": 480
       },
       "title": "interaction esp32 et  serveur MQTT : contrôle  des systèmes et  visualisation  des données",
-      "viewCount": 1878
+      "viewCount": 2552
     },
     {
       "commentCount": 5,
@@ -1019,7 +1364,7 @@
       "featured": false,
       "id": "DDkBLWaWQLE",
       "kind": "youtube#video",
-      "likeCount": 30,
+      "likeCount": 33,
       "localized": {
         "description": "In this video, we'll see how to establish serial communication between Arduino and Matlab! And then we'll turn on a Led with Matlab\n\nHere is the link to download the ArduinoIO package:\nhttps://fr.mathworks.com/matlabcentral/fileexchange/32374-legacy-matlab-and-simulink-support-for-arduino\n\n\n#arduino #matlab #communication #led",
         "title": "Serial communication between Matlab and Arduino"
@@ -1033,7 +1378,7 @@
         "width": 480
       },
       "title": "Communication Série entre Matlab et Arduino",
-      "viewCount": 2198
+      "viewCount": 2608
     },
     {
       "commentCount": 2,
@@ -1042,7 +1387,7 @@
       "featured": false,
       "id": "-hBY26V6yCA",
       "kind": "youtube#video",
-      "likeCount": 26,
+      "likeCount": 29,
       "localized": {
         "description": "This tutorial shows how to store data from sensors connected to an ESP32/Arduino \nin a Mysql database using a local/public MQTT broker. We will be using the Python library paho mqtt\nto create an mqtt client to interact with the mqtt broker \n\n\ncode used in the video\n\nhttps://github.com/fabriceDurand/python_mqtt_client.git\n\nprevious video\nhttps://youtu.be/RCkzQHHZLco\n\n\nInstall the Mosquito broker\nhttps://mosquitto.org/download/\n\n\ninstall the MQTT explorer\nhttp://mqtt-explorer.com/\n\n\nBroker Mosquittto documentation\nhttps://mosquitto.org/man/mosquitto-8...\n\n\nunderwriting documentation on a broker\nhttps://mosquitto.org/man/mosquitto_s...\n\n\nDocumentation publication on a broker \nhttps://mosquitto.org/man/mosquitto_p...\n\n\ninstall node-red and the dashboards to use in the video\nhttps://youtu.be/9UBIWLvIMEs\n\nOur Telegram channel\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n\n\n#iot #mqtt #broker #nodered #esp32 #arduino #mysql #python",
         "title": "MQTT protocol: save sensor data in a Mysql database"
@@ -1056,7 +1401,7 @@
         "width": 480
       },
       "title": "protocole MQTT: enregistrer des données des capteurs dans une base de données Mysql",
-      "viewCount": 2379
+      "viewCount": 2860
     },
     {
       "commentCount": 0,
@@ -1079,16 +1424,39 @@
         "width": 480
       },
       "title": "protocole MQTT:  installation, souscription et publication  sur un Broker",
-      "viewCount": 1016
+      "viewCount": 1221
     },
     {
-      "commentCount": 0,
+      "commentCount": 28,
+      "description": "Dans cette vidéo , on va poser les questions intéressantes à une étudiante ingénieure finissante du domaine de la robotique industrielle de l'ENSPD\n\n#genie  #robotique  #Système \n#electrique #orientation #ENSPD",
+      "duration": "PT24M36S",
+      "featured": false,
+      "id": "7Y14Wd0aI3E",
+      "kind": "youtube#video",
+      "likeCount": 289,
+      "localized": {
+        "description": "In this video, we will ask interesting questions to a graduating engineering student in the field of industrial robotics at ENSPD\n\n#genie #robotique #Système \n#electrique #orientation #ENSPD",
+        "title": "Engineering course: Electrical Engineering and Intelligent Systems (Industrial Robotics)"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-05-29T15:52:09Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/7Y14Wd0aI3E/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Filière ingénieur : Génie Electrique et Systèmes Intelligents(Robotique Industrielle)",
+      "viewCount": 7540
+    },
+    {
+      "commentCount": 1,
       "description": "Dans cette vidéo , nous allons vous montrer comment vous pouvez lire les données analogiques d'un capteur branché sur Arduino à partir de l'interface de Labview\n\n#Labview   #Arduino  #capteur    #Analogique",
       "duration": "PT12M54S",
       "featured": false,
       "id": "YARtYH5-zmQ",
       "kind": "youtube#video",
-      "likeCount": 31,
+      "likeCount": 34,
       "localized": {
         "description": "In this video, we'll show you how you can read analog data from a sensor plugged into Arduino from the Labview interface\n\n#Labview #Arduino #capteur #Analogique",
         "title": "Reading analog sensor data with Arduino and Labview"
@@ -1102,16 +1470,16 @@
         "width": 480
       },
       "title": "Lire données analogiques d'un capteur avec Arduino et Labview",
-      "viewCount": 2606
+      "viewCount": 3023
     },
     {
-      "commentCount": 30,
+      "commentCount": 32,
       "description": "Dans cette vidéo , on aborde la thematique du génie informatique et telecom à l'Enspd \n\nSi vous voulez en savoir plus sur l'étudiant ingénieur  Fowe Jocelin :\n\nhttps://jocelinfowe-dev.fr/\n\n#ENSPD #genie #informatique \n#interview  #orientation",
       "duration": "PT21M37S",
       "featured": false,
       "id": "KUgN_5GXu8c",
       "kind": "youtube#video",
-      "likeCount": 271,
+      "likeCount": 304,
       "localized": {
         "description": "In this video, we discuss the topic of computer and telecom engineering at Enspd \n\nIf you want to know more about engineering student Fowe Jocelin:\n\nhttps://jocelinfowe-dev.fr/\n\n#ENSPD #genie #informatique \n#interview #orientation",
         "title": "Engineering course: Computer and Telecom Engineering"
@@ -1125,7 +1493,7 @@
         "width": 480
       },
       "title": "Filière ingénieur : Génie Informatique et Télécom",
-      "viewCount": 7827
+      "viewCount": 8716
     },
     {
       "commentCount": 0,
@@ -1134,7 +1502,7 @@
       "featured": false,
       "id": "0vN5tJ2gNFI",
       "kind": "youtube#video",
-      "likeCount": 11,
+      "likeCount": 12,
       "localized": {
         "description": "In this video, we are going to control the voltage variation at the OUTPUT of an Arduino pin using PWM signals.\nAnd all this from the Labview interface\n\nTelegram channel:\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n#labview #arduino #pmw",
         "title": "Voltage variation (PWM) at the output of the Arduino with Labview"
@@ -1148,7 +1516,30 @@
         "width": 480
       },
       "title": "Variation de tension (PWM) en sortie de l'Arduino avec Labview",
-      "viewCount": 386
+      "viewCount": 499
+    },
+    {
+      "commentCount": 18,
+      "description": "Dans cette vidéo, vous aurez accès à certaines informations qui vont vous faire comprendre un peu mieux la filière Génie Civil ,  surtout si vous voulez vous orientez .\nIl s'agit de la partie 2 de l'interview",
+      "duration": "PT13M21S",
+      "featured": false,
+      "id": "bxQhHLJ5DsI",
+      "kind": "youtube#video",
+      "likeCount": 122,
+      "localized": {
+        "description": "In this video, you will have access to some information that will make you understand the Civil Engineering course a little better, especially if you want to find your way around.\nThis is part 2 of the interview",
+        "title": "Engineering course: Civil engineering (Part 2)"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-05-16T16:22:50Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/bxQhHLJ5DsI/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Filière ingénieur : Génie civil  ( Partie 2 )",
+      "viewCount": 2764
     },
     {
       "commentCount": 1,
@@ -1157,7 +1548,7 @@
       "featured": false,
       "id": "8TZlLu29QzM",
       "kind": "youtube#video",
-      "likeCount": 35,
+      "likeCount": 45,
       "localized": {
         "description": "In this video we will record the data from the sensors present on the ESP32 and store them in a Mysql database and also visualize the content using node-red.\n\nPrevious video to easily create applications with node-red\nhttps://youtu.be/9UBIWLvIMEs\n\nUse node-red on a raspberry pi \nhttps://youtu.be/m_hrbFD0YfY\n\nSave sensor data in a database using PHP and ESP8266\n https://youtu.be/wVF9Mntxjnk\n\nOur Telegram channel\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n#iot #esp32 #nodered #mysql",
         "title": "#7 save data in a database with ESP32 and Node-RED"
@@ -1171,7 +1562,7 @@
         "width": 480
       },
       "title": "#7 enregistrer des données dans une base de données avec l'ESP32 et Node-red",
-      "viewCount": 4367
+      "viewCount": 5264
     },
     {
       "commentCount": 0,
@@ -1180,7 +1571,7 @@
       "featured": false,
       "id": "m_hrbFD0YfY",
       "kind": "youtube#video",
-      "likeCount": 51,
+      "likeCount": 63,
       "localized": {
         "description": "Hi everyone in this tutorial we will use the raspberry pi to command/control the lighting as well as visualize in real time the data from the temperature sensors connected to the raspberry pi. \nFor this we will connect remotely to our raspberry pi via SSH and to visualize the screen we will use VNC viewer. \nOnce this is done, all we need to do is install Node-Red to create our application.\n\nVNC viewer client download link \nhttps://www.realvnc.com/fr/connect/download/viewer/\n\nputty download link for desktop (alternative to Bitvise client)\nhttps://www.putty.org/\n\nBitvise ssh client download link\nhttps://www.bitvise.com/ssh-client-download\n\nNode-Red installation link on raspberry pi\nhttps://nodered.org/docs/getting-started/raspberrypi\n\nLink to our Telegram channel\nhttps://t.me/+NAAYLrj3lGY3NjE8\n\n#raspberrypi #nodered #iot",
         "title": "control devices and visualize sensor data with the raspberry pi and Node-Red"
@@ -1194,7 +1585,7 @@
         "width": 480
       },
       "title": "contrôle  des appareils et visualisation des données des capteurs avec le raspberry pi et Node-Red",
-      "viewCount": 5289
+      "viewCount": 6107
     },
     {
       "commentCount": 6,
@@ -1203,7 +1594,7 @@
       "featured": false,
       "id": "wVF9Mntxjnk",
       "kind": "youtube#video",
-      "likeCount": 54,
+      "likeCount": 57,
       "localized": {
         "description": "In this video I show you how to save and update the values of the light sensor connected to the ESP8266 or node.mu using PHP.\n\n\nall of the code used in this video\nhttps://github.com/fabriceDurand/BD_ESP8266.git\n\n\nLink to our Telegram channel\nhttps://t.me/+NAAYLrj3lGY3NjE8\n\n#esp8266 #Iot #Mysql #php",
         "title": "esp8266: Save sensor data in a database with PHP"
@@ -1217,7 +1608,30 @@
         "width": 480
       },
       "title": "esp8266 :  Enregistrer les données des  capteurs dans une base de données avec  du PHP",
-      "viewCount": 5590
+      "viewCount": 6107
+    },
+    {
+      "commentCount": 20,
+      "description": "Dans cette vidéo, vous aurez accès à certaines informations qui vont vous faire comprendre un peu mieux la filière Génie Civil ,  surtout si vous voulez vous orientez .\nIl s'agit de la partie  1 de l'interview",
+      "duration": "PT11M44S",
+      "featured": false,
+      "id": "40rrkEe7lKM",
+      "kind": "youtube#video",
+      "likeCount": 499,
+      "localized": {
+        "description": "In this video, you will have access to some information that will make you understand the Civil Engineering course a little better, especially if you want to find your way around.\nThis is part 1 of the interview",
+        "title": "Engineering course: Civil engineering"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-05-12T16:11:50Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/40rrkEe7lKM/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Filière ingénieur : Génie civil",
+      "viewCount": 15405
     },
     {
       "commentCount": 17,
@@ -1226,7 +1640,7 @@
       "featured": false,
       "id": "Q-TzzgTrb6s",
       "kind": "youtube#video",
-      "likeCount": 238,
+      "likeCount": 261,
       "localized": {
         "description": "We are going to meet an engineering student in Mechanical Engineering so that he can enlighten us on his field",
         "title": "Engineering course: Mechanical Engineering"
@@ -1240,7 +1654,7 @@
         "width": 480
       },
       "title": "Filière Ingénieur : Génie Mécanique",
-      "viewCount": 8688
+      "viewCount": 9627
     },
     {
       "commentCount": 0,
@@ -1249,7 +1663,7 @@
       "featured": false,
       "id": "BgrtY8kKbHM",
       "kind": "youtube#video",
-      "likeCount": 6,
+      "likeCount": 8,
       "localized": {
         "description": "In this video, we show you how you can easily interface the LABVIEW software with ARDUINO\n\n\nTelegram channel:\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n\n\nlink to:\n* VIPM download:\nhttps://www.vipm.io/download/\n\n* Digilent lynx download: \nhttps://www.vipm.io/package/lvh_linx/\n\n* MakerHub download:\nhttps://www.ni.com/gate/gb/GB_EVALTLKTLINXLVH/US",
         "title": "Labview-Arduino interface: Lighting a led"
@@ -1263,7 +1677,7 @@
         "width": 480
       },
       "title": "Interfacage labview-arduino : Allumage d'une led",
-      "viewCount": 551
+      "viewCount": 770
     },
     {
       "commentCount": 3,
@@ -1272,7 +1686,7 @@
       "featured": false,
       "id": "SYANk_cOUHM",
       "kind": "youtube#video",
-      "likeCount": 17,
+      "likeCount": 19,
       "localized": {
         "description": "Hi everyone today we are going to use ESP32 to inform our users in real time about events that are happening in different systems or projects. \n\nCode link in the video\nhttps://github.com/fabriceDurand/esp32_gmail.git\n\nTelegram channel link for more details and concerns\nhttps://t.me/+FGsekXn_jhY1MmI0\n\n#iot #esp32 #gmail",
         "title": "#6 GMAIL notification with ESP32"
@@ -1286,16 +1700,39 @@
         "width": 480
       },
       "title": "#6 Notification GMAIL avec l'ESP32",
-      "viewCount": 1039
+      "viewCount": 1217
     },
     {
-      "commentCount": 0,
+      "commentCount": 23,
+      "description": "On va à la rencontre d'un étudiant ingénieur en Génie Automobile et mécatronique  pour qu'il nous éclaire sur sa filière",
+      "duration": "PT32M17S",
+      "featured": false,
+      "id": "z1l7Lbvf93o",
+      "kind": "youtube#video",
+      "likeCount": 154,
+      "localized": {
+        "description": "We are going to meet an engineering student in Automotive and Mechatronics Engineering so that he can enlighten us on his field.",
+        "title": "Engineering course: Automotive and Mechatronics Engineering"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-04-30T16:25:14Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/z1l7Lbvf93o/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Filière Ingénieur : Génie Automobile et Mécatronique",
+      "viewCount": 5259
+    },
+    {
+      "commentCount": 1,
       "description": "Dans cette vidéo , nous allons voir comment faire le câblage et dimensionner d'un ensemble de leds afin de réaliser un motif clignotant\n\nvoici le lien pour acceder au canal Telegram:\nhttps://t.me/+FGsekXn_jhY1MmI0",
       "duration": "PT13M58S",
       "featured": false,
       "id": "YKMFMk5M7So",
       "kind": "youtube#video",
-      "likeCount": 7,
+      "likeCount": 8,
       "localized": {
         "description": "In this video, we will see how to wire and size a set of LEDs in order to make a blinking pattern\n\nHere is the link to access the Telegram channel:\nhttps://t.me/+FGsekXn_jhY1MmI0",
         "title": "Realization of a field of flashing LEDs"
@@ -1309,16 +1746,16 @@
         "width": 480
       },
       "title": "Réalisation d'un champs de leds clignotants",
-      "viewCount": 236
+      "viewCount": 367
     },
     {
       "commentCount": 10,
       "description": "A la suite de la vidéo précédente , aujourd'hui nous allons acquérir les valeurs   des  capteurs avec l'ESP32 et les afficher dans une page web . \nLa page web et les scripts css et javascripts etant stockés  dans la memoire flash de l'ESP32 à l'aide du gestionnaire de fichiers #SPIFFS  . Nous abordons aussi la communication asynchrone  entre le serveur et le client pour rendre plus rapide l'interaction ou ke temps de réponses entre la requête du client et la reponse du serveur. \n\nl'ensemble des du code utilisé dans cette vidéo \nhttps://github.com/fabriceDurand/esp32data.git\n\nla vidéo précédente \nhttps://youtu.be/87hciehFNS8\n\nle lien de notre canal télégram pour vos différents soucis\nhttps://t.me/+NAAYLrj3lGY3NjE8\n\n#esp32  #iot  #html #javascript #web",
       "duration": "PT30M10S",
-      "featured": true,
+      "featured": false,
       "id": "hNyjTxNQqhs",
       "kind": "youtube#video",
-      "likeCount": 85,
+      "likeCount": 91,
       "localized": {
         "description": "Following the previous video, today we are going to acquire sensor values with the ESP32 and display them on a web page. \nThe web page and the css and javascript scripts are stored in the ESP32 flash memory using the #SPIFFS file manager. We also discuss asynchronous communication between the server and the client to make the interaction or response time between the client request and the server response faster. \n\nAll of the code used in this video \nhttps://github.com/fabriceDurand/esp32data.git\n\nThe previous video \nhttps://youtu.be/87hciehFNS8\n\nThe link to our Telegram channel for your various concerns\nhttps://t.me/+NAAYLrj3lGY3NjE8\n\n#esp32 #iot #html #javascript #web",
         "title": "#5 Acquiring and visualizing sensor data in a web page with the ESP32"
@@ -1332,16 +1769,39 @@
         "width": 480
       },
       "title": "#5  Acquisition et visualisation des données de capteurs dans une page web  avec l'ESP32",
-      "viewCount": 7538
+      "viewCount": 8366
     },
     {
-      "commentCount": 8,
+      "commentCount": 2,
+      "description": "Dans cette vidéo, on partage avec vous ce qu'il faut savoir pour dimensionner la sortie de notre NE555 en mode astable",
+      "duration": "PT4M42S",
+      "featured": false,
+      "id": "tHYt14AbiKI",
+      "kind": "youtube#video",
+      "likeCount": 13,
+      "localized": {
+        "description": "In this video, we share with you what you need to know to size the output of our NE555 in astable mode",
+        "title": "Sizing the NE555 in astable mode"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-04-20T16:53:52Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/tHYt14AbiKI/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Dimensionnement du NE555 en mode astable",
+      "viewCount": 1002
+    },
+    {
+      "commentCount": 9,
       "description": "Nouvelle vidéo aujourd'hui pour vous expliquer comment utiliser l'ESP32 comme serveur web , créer vos propres pages html et css et y stocker . L'architecture client serveur est répresentée principalement dans cette vidéo pour vous montrer comment commander/contrôler des appareils électroniques chez vous . \n\nle lien vers l'ensembke du code utilisé dans la vidéo\n\nhttps://github.com/fabriceDurand/esp_webserver.git\n\nle lien vers notre canal télégram \n\nhttps://t.me/+NAAYLrj3lGY3NjE8\n\n#iot #esp32 #web #html",
       "duration": "PT15M19S",
       "featured": false,
       "id": "87hciehFNS8",
       "kind": "youtube#video",
-      "likeCount": 72,
+      "likeCount": 75,
       "localized": {
         "description": "New video today to explain how to use ESP32 as a web server, create your own html and css pages and store them there. The client-server architecture is mainly represented in this video to show you how to command/control electronic devices at home. \n\nthe link to all the code used in the video\n\nhttps://github.com/fabriceDurand/esp_webserver.git\n\nThe link to our Telegram channel \n\nhttps://t.me/+NAAYLrj3lGY3NjE8\n\n#iot #esp32 #web #html",
         "title": "#4 Use ESP32 as a web server"
@@ -1355,16 +1815,62 @@
         "width": 480
       },
       "title": "#4 Utiliser l'ESP32 comme serveur web",
-      "viewCount": 6797
+      "viewCount": 7740
     },
     {
-      "commentCount": 4,
+      "commentCount": 1,
+      "description": "Dans cette vidéo , on va vous expliquer le fonctionnement du NE555 en astable",
+      "duration": "PT20M38S",
+      "featured": false,
+      "id": "MiUGbTJMoK8",
+      "kind": "youtube#video",
+      "likeCount": 7,
+      "localized": {
+        "description": "In this video, we will explain to you how the NE555 works in astable",
+        "title": "The NE555 (PART 2): The functioning of the astable system"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-04-16T17:39:35Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/MiUGbTJMoK8/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Le NE555(PARTIE 2) : Le fonctionnement du système en astable",
+      "viewCount": 368
+    },
+    {
+      "commentCount": 2,
+      "description": "Dans cette vidéo , nous allons vous décrire le NE555 et également vous expliquer ses différentes composantes.",
+      "duration": "PT12M56S",
+      "featured": false,
+      "id": "gw8mYAPJ3K4",
+      "kind": "youtube#video",
+      "likeCount": 32,
+      "localized": {
+        "description": "In this video, we will describe the NE555 to you and also explain its various components.",
+        "title": "the NE555 in stable mode (PART 1) --Making a turn signal--"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-04-11T19:33:39Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/gw8mYAPJ3K4/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "le NE555 en mode astable (PARTIE 1) --Réalisation d'un clignotant--",
+      "viewCount": 2153
+    },
+    {
+      "commentCount": 5,
       "description": "Dans cette vidéo, on utilise l'ESP32 comme point d'accès à internet . Ainsi tout appareil au environs sera capable de se connecter au système et à y effectuer des actions de commandes ou de contrôle via l'ESP32 .\n\nle  code utilisé dans la vidéo\nhttps://github.com/fabriceDurand/ap_esp32.git\n\n#esp32 #iot #ips",
       "duration": "PT9M33S",
       "featured": false,
       "id": "3fqgldXOP28",
       "kind": "youtube#video",
-      "likeCount": 41,
+      "likeCount": 52,
       "localized": {
         "description": "In this video, we use the ESP32 as an internet access point. Thus, any device in the vicinity will be able to connect to the system and perform command or control actions via the ESP32.\n\nThe code used in the video\nhttps://github.com/fabriceDurand/ap_esp32.git\n\n#esp32 #iot #ips",
         "title": "#3 Use ESP32 as an internet access point"
@@ -1378,7 +1884,7 @@
         "width": 480
       },
       "title": "#3  Utiliser ESP32 comme point d'accès à internet",
-      "viewCount": 4024
+      "viewCount": 5033
     },
     {
       "commentCount": 2,
@@ -1387,7 +1893,7 @@
       "featured": false,
       "id": "jyIPgt3ATJw",
       "kind": "youtube#video",
-      "likeCount": 30,
+      "likeCount": 37,
       "localized": {
         "description": "In this video, the aim is to show how to configure a static IP address on the ESP32 so as not to have to search for the new IP address every time it disconnects.\n\n#ESP32 #AdresseIP #iot",
         "title": "#2 Assign a static IP address to ESP32"
@@ -1401,16 +1907,16 @@
         "width": 480
       },
       "title": "#2 Attribuer une adresse IP statique à ESP32",
-      "viewCount": 2129
+      "viewCount": 2533
     },
     {
-      "commentCount": 5,
+      "commentCount": 7,
       "description": "Dans cette vidéo , on vous explique tout ce qu'il faut savoir de façon basique sur le transistor bipolaire quand on veut l'utiliser dans un circuit électronique",
       "duration": "PT14M12S",
       "featured": false,
       "id": "_-RMruhkF9s",
       "kind": "youtube#video",
-      "likeCount": 71,
+      "likeCount": 74,
       "localized": {
         "description": "In this video, we explain everything you need to know in a basic way about the bipolar transistor when you want to use it in an electronic circuit",
         "title": "What is the purpose of a bipolar transistor?"
@@ -1424,7 +1930,7 @@
         "width": 480
       },
       "title": "A quoi sert le transistor bipolaire?",
-      "viewCount": 3473
+      "viewCount": 4152
     },
     {
       "commentCount": 1,
@@ -1433,7 +1939,7 @@
       "featured": false,
       "id": "uVwouxA3SyQ",
       "kind": "youtube#video",
-      "likeCount": 27,
+      "likeCount": 31,
       "localized": {
         "description": "In this video that introduces the ESP32 module, you will generally discover its potential and learn how to assign a local IP address to it. With this module it will become possible to control and control your systems wherever you are in the world.\n\nThe code link in the video\nhttps://github.com/fabriceDurand/esp32-1.git\n\n#IoT #WIFI #systemeembarques",
         "title": "ESP32: Connecting your electronic devices and systems to the internet"
@@ -1447,7 +1953,7 @@
         "width": 480
       },
       "title": "ESP32 :  Connecter vos appareils et systèmes électroniques à internet",
-      "viewCount": 1517
+      "viewCount": 1791
     },
     {
       "commentCount": 5,
@@ -1456,7 +1962,7 @@
       "featured": false,
       "id": "y4RsOKpPxvU",
       "kind": "youtube#video",
-      "likeCount": 80,
+      "likeCount": 82,
       "localized": {
         "description": "In this video, we will explain to you the basic things you need to know about the diode",
         "title": "What is the diode used for?"
@@ -1470,7 +1976,7 @@
         "width": 480
       },
       "title": "A quoi sert la diode?",
-      "viewCount": 3100
+      "viewCount": 3395
     },
     {
       "commentCount": 0,
@@ -1479,7 +1985,7 @@
       "featured": false,
       "id": "G3_utLTOjxU",
       "kind": "youtube#video",
-      "likeCount": 7,
+      "likeCount": 8,
       "localized": {
         "description": "In this tutorial, we show how to use the Telegram bot to notify users all over the world.\n\nLink to create your Telegram Bot\nhttps://www.commentcoder.com/bot-telegram/\n\n Link to the tutorial to get your IP\nhttps://www.alphr.com/find-chat-id-telegram/#:~:text=Tap%20the%20left%2Dpointing%20arrow,ID%20number%20for%20the%20group.\n\n link to the Telegram API site for the media sending code\nhttps://telegram-bot-sdk.readme.io/reference/sendmessage",
         "title": "Telegram bot: Notification all over the world"
@@ -1493,7 +1999,7 @@
         "width": 480
       },
       "title": "Bot Telegram : Notification partout dans le monde",
-      "viewCount": 430
+      "viewCount": 604
     },
     {
       "commentCount": 1,
@@ -1502,7 +2008,7 @@
       "featured": false,
       "id": "E99WMSeOHBk",
       "kind": "youtube#video",
-      "likeCount": 6,
+      "likeCount": 7,
       "localized": {
         "description": "This tutorial shows you how you can notify your users using daily messengers without using a GSM module. The Twilio api provides everything you need for that\n\nlink to registration on the Twilio platform\nhttps://www.twilio.com/try-twilio",
         "title": "Alert users by SMS and Whatapp all over the world"
@@ -1516,7 +2022,7 @@
         "width": 480
       },
       "title": "Alerter  des utilisateurs par  SMS  et Whatapp partout dans le monde",
-      "viewCount": 537
+      "viewCount": 843
     },
     {
       "commentCount": 4,
@@ -1525,7 +2031,7 @@
       "featured": false,
       "id": "PKgMPUfvXrI",
       "kind": "youtube#video",
-      "likeCount": 24,
+      "likeCount": 26,
       "localized": {
         "description": "In this video, we are going to see how does the capacitor work? How does it store energy?",
         "title": "What is the purpose of a capacitor?"
@@ -1539,7 +2045,7 @@
         "width": 480
       },
       "title": "A quoi sert un condensateur?",
-      "viewCount": 1646
+      "viewCount": 1938
     },
     {
       "commentCount": 0,
@@ -1548,7 +2054,7 @@
       "featured": false,
       "id": "OvHFycEwQoQ",
       "kind": "youtube#video",
-      "likeCount": 17,
+      "likeCount": 21,
       "localized": {
         "description": "In this video, we explain to you the fundamental role of resistance, and this through a clear and easy experience to replicate at home!",
         "title": "What is the purpose of resistance?"
@@ -1562,7 +2068,7 @@
         "width": 480
       },
       "title": "A quoi sert la résistance?",
-      "viewCount": 934
+      "viewCount": 1743
     },
     {
       "commentCount": 2,
@@ -1571,7 +2077,7 @@
       "featured": false,
       "id": "aEusITaEqcM",
       "kind": "youtube#video",
-      "likeCount": 6,
+      "likeCount": 7,
       "localized": {
         "description": "In this video, you will have simplified explanations on how to use the material removal function by revolution",
         "title": "SolidWorks: Material removal by revolution"
@@ -1585,16 +2091,16 @@
         "width": 480
       },
       "title": "SolidWorks : Enlèvement de matière par révolution",
-      "viewCount": 694
+      "viewCount": 1150
     },
     {
-      "commentCount": 2,
+      "commentCount": 3,
       "description": "Dans ce tutoriel  , nous utilisons les QR CODE pour gérer l'accès à un cours dans une salle de classe . Une fois l'étudiant scanne son QR code , les informations comme la date et l'heure sont stockées dans une base de donnée  pour une analyse ultérieure éventuellement . \n\nlien de l'ensemble du  code et fichier utilisés dans la vidéo\nhttps://github.com/fabriceDurand/QRCODE.git\n\nlien de la vidéo  pour l'enregistrement des données dans une base de données Mysql \n#https://youtu.be/VHtMjubup7E\n\n\n#qrcode    #database  #opencv",
       "duration": "PT14M34S",
       "featured": false,
       "id": "15NM2kRJNiY",
       "kind": "youtube#video",
-      "likeCount": 62,
+      "likeCount": 64,
       "localized": {
         "description": "In this tutorial, we use QR CODES to manage access to a course in a classroom. Once the student scans their QR code, information such as the date and time is stored in a database for later analysis. \n\nLink to all the code and files used in the video\nhttps://github.com/fabriceDurand/QRCODE.git\n\nVideo link for recording data in a Mysql database \n# https://youtu.be/VHtMjubup7E\n\n\n#qrcode #database #opencv",
         "title": "How to create QR CODES: Attendance check in a classroom"
@@ -1608,16 +2114,16 @@
         "width": 480
       },
       "title": "Comment créer des QR CODE : Controle  de présence dans une  salle de classe",
-      "viewCount": 6411
+      "viewCount": 7614
     },
     {
       "commentCount": 15,
       "description": "Dans ce tutoriel je vous explique comment récupérer les valeurs de notre capteur de température LM35 et les stocker dans une base de données MySql pour des analyses futures.\n\nle lien vers le code dans la vidéo\nhttps://github.com/fabriceDurand/sensor_database.git \n\nlien de notre canal télégram\nhttps://t.me/+NAAYLrj3lGY3NjE8\n\n#MySql #Python #Arduino",
       "duration": "PT12M10S",
-      "featured": true,
+      "featured": false,
       "id": "Q_H35NNq9e0",
       "kind": "youtube#video",
-      "likeCount": 169,
+      "likeCount": 186,
       "localized": {
         "description": "In this tutorial I explain how to retrieve the values from our LM35 temperature sensor and store them in a MySQL database for future analyses.\n\nThe link to the code in the video\nhttps://github.com/fabriceDurand/sensor_database.git \n\nLink to our Telegram channel\nhttps://t.me/+NAAYLrj3lGY3NjE8\n\n#MySql #Python #Arduino",
         "title": "Save sensor data in a database"
@@ -1631,7 +2137,53 @@
         "width": 480
       },
       "title": "Enregistrer les données des  capteurs dans une base de données",
-      "viewCount": 13143
+      "viewCount": 14825
+    },
+    {
+      "commentCount": 1,
+      "description": "Dans cette video , on vous explique comment utiliser la fonction révolution avec Base/Bossage dans la conception sous SolidWorks",
+      "duration": "PT16M14S",
+      "featured": false,
+      "id": "5Y3ZqdEp_1E",
+      "kind": "youtube#video",
+      "likeCount": 12,
+      "localized": {
+        "description": "In this video, we show you how to use the revolution function with Base/Bossage in SolidWorks design",
+        "title": "SolidWorks: How to make a revolution with Base/Bossage"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-03-07T13:12:11Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/5Y3ZqdEp_1E/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "SolidWorks: Comment faire une révolution avec Base/Bossage",
+      "viewCount": 1676
+    },
+    {
+      "commentCount": 0,
+      "description": "Dans cette vidéo , nous apprendrons en détail comment paramétrer les différents options de la fonction enlèvement de matière par extrusion",
+      "duration": "PT16M29S",
+      "featured": false,
+      "id": "Yujw8L7UyFs",
+      "kind": "youtube#video",
+      "likeCount": 6,
+      "localized": {
+        "description": "In this video, we will learn in detail how to set up the various options for the extrusion material removal function",
+        "title": "SolidWorks: Learn Extrusion with Material Removal"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-03-03T17:28:47Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/Yujw8L7UyFs/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "SolidWorks: Apprendre l'extrusion avec enlèvement de matière",
+      "viewCount": 778
     },
     {
       "commentCount": 0,
@@ -1640,7 +2192,7 @@
       "featured": false,
       "id": "GBpudpWh4YU",
       "kind": "youtube#video",
-      "likeCount": 5,
+      "likeCount": 8,
       "localized": {
         "description": "continuation of the introductory part on the matrix display P10\n\n\nThe link to the Arduino code to create it\nhttps://github.com/fabriceDurand/horloges.git",
         "title": "digital clock with matrix displays"
@@ -1654,7 +2206,30 @@
         "width": 480
       },
       "title": "horloge numérique avec les afficheurs matriciels",
-      "viewCount": 203
+      "viewCount": 298
+    },
+    {
+      "commentCount": 0,
+      "description": "Dans cette vidéo , vous apprendrez à réaliser une extrusion de type Base/Bossage \n#SolidWorks\n#Extrusion\n#Base/Bossage\n#Fonction de base",
+      "duration": "PT29M19S",
+      "featured": false,
+      "id": "0ESk2oSdbsA",
+      "kind": "youtube#video",
+      "likeCount": 5,
+      "localized": {
+        "description": "In this video, you will learn how to perform a Base/Bossage type of extrusion \n#SolidWorks\n#Extrusion\n#Base /Boss\n#Fonction basic",
+        "title": "SolidWorks: How to perform an extrusion (PART1)"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-02-27T15:48:16Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/0ESk2oSdbsA/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "SolidWorks : Comment réaliser une extrusion(PART1)",
+      "viewCount": 280
     },
     {
       "commentCount": 5,
@@ -1663,7 +2238,7 @@
       "featured": false,
       "id": "9UBIWLvIMEs",
       "kind": "youtube#video",
-      "likeCount": 19,
+      "likeCount": 22,
       "localized": {
         "description": "In this tutorial I show you how to easily and effectively create web interfaces in order to be able to interact, i.e. communicate, visualize and interpret the data of the system or project studied.\n\nlink to the node-red platform for installation\nhttps://nodered.org/docs/getting-started/local\n\nOur Telegram channel to contact us \nhttps://t.me/+NAAYLrj3lGY3NjE8",
         "title": "Quickly build web applications with node-red"
@@ -1677,7 +2252,30 @@
         "width": 480
       },
       "title": "Créer rapidement des applications web avec node-red",
-      "viewCount": 1565
+      "viewCount": 1865
+    },
+    {
+      "commentCount": 3,
+      "description": "Dans cette vidéo , on vous présente les différentes étapes nécessaires pour la réalisation des différentes pièces d'un jeu de dames sur SolidWorks\n#SolidWorks\n#Jeu de dames\n#Assemblage",
+      "duration": "PT15M28S",
+      "featured": false,
+      "id": "UXuSXDP0vS4",
+      "kind": "youtube#video",
+      "likeCount": 4,
+      "localized": {
+        "description": "In this video, we show you the different steps required to make the various pieces of a checkers game on SolidWorks\n#SolidWorks\nLadies' #Jeu\n#Assemblage",
+        "title": "SolidWorks: How to make a checkers game"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-02-20T22:35:07Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/UXuSXDP0vS4/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "SolidWorks: Comment réaliser un jeu de dames",
+      "viewCount": 184
     },
     {
       "commentCount": 0,
@@ -1686,7 +2284,7 @@
       "featured": false,
       "id": "tZ9is9zRb_o",
       "kind": "youtube#video",
-      "likeCount": 3,
+      "likeCount": 5,
       "localized": {
         "description": "In this tutorial we will control the ignition of home appliances using our voice from our smartphone. We will use MIT app inventor to create mobile applications then we will control with voice the devices connected to our Arduino microcontroller.\n\nYou will find on the link below all the code and the mobile application used in the video\n# https://github.com/fabriceDurand/home...\n\n#arduino #domotique #bluethooth #voicecontrol",
         "title": "home automation project: voice control using your smartphone and Arduino"
@@ -1700,7 +2298,30 @@
         "width": 480
       },
       "title": "projet domotique:   controle vovale à l'aide de votre smartphone et d'arduino",
-      "viewCount": 157
+      "viewCount": 326
+    },
+    {
+      "commentCount": 0,
+      "description": "Dans cette vidéo , on vous montre un assemblage simple sur SolidWorks qui permet à la fin d'obtenir un étau à arbre",
+      "duration": "PT15M42S",
+      "featured": false,
+      "id": "qtfa8k5Min8",
+      "kind": "youtube#video",
+      "likeCount": 6,
+      "localized": {
+        "description": "In this video, we show you a simple assembly on SolidWorks that finally allows you to obtain a shaft vise.",
+        "title": "SolidWorks Assembly: Making a Tree Vise"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-02-13T18:15:45Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/qtfa8k5Min8/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Assemblage SolidWorks: Réaliser un étau à arbre",
+      "viewCount": 714
     },
     {
       "commentCount": 0,
@@ -1723,7 +2344,30 @@
         "width": 480
       },
       "title": "LES AFFICHEURS MATRICIELS",
-      "viewCount": 149
+      "viewCount": 210
+    },
+    {
+      "commentCount": 0,
+      "description": "Dans cette vidéo , vous apprenez à utiliser des outils et fonctions très importantes dans SolidWorks",
+      "duration": "PT28M8S",
+      "featured": false,
+      "id": "8RmjRm3M674",
+      "kind": "youtube#video",
+      "likeCount": 1,
+      "localized": {
+        "description": "In this video, you learn how to use some of the most important tools and functions in SolidWorks",
+        "title": "TP5 (continued) Complex piece Part 2"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-02-06T16:12:23Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/8RmjRm3M674/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "TP5 (suite)  Pièce complexe Partie 2",
+      "viewCount": 46
     },
     {
       "commentCount": 0,
@@ -1732,7 +2376,7 @@
       "featured": false,
       "id": "Zgip3FvQamo",
       "kind": "youtube#video",
-      "likeCount": 5,
+      "likeCount": 6,
       "localized": {
         "description": "This video is about the technology and the means of communication involved. Things to consider when integrating them into a project or simply studying it. \nImplementation using the RC522 RFID module communicating at a frequency of 13.56Mhz using the Arduino Uno, one of the most well known and widespread embedded systems.\n\nThe link to the code used in the video\nhttps://github.com/fabriceDurand/le-sans-contact.git\n\n- other videos \naccess security system with Arduino and the RC522 RFID module \nhttps://youtu.be/RXZbZQvM3F0\n\n\n#rfid #arduino #ُembeddedsystem #arduinoproject #nfc",
         "title": "Contactless communication: understanding RFID and NFC with Arduino"
@@ -1746,7 +2390,30 @@
         "width": 480
       },
       "title": "communication sans contact : comprendre la RFID et NFC avec arduino",
-      "viewCount": 424
+      "viewCount": 535
+    },
+    {
+      "commentCount": 0,
+      "description": "Dans cette video , vous apprendrez à : \n-Utiliser l'outil Coque\n-Realiser des nervures\n-Creer des pièces de références ...",
+      "duration": "PT33M12S",
+      "featured": false,
+      "id": "Slm8e63pJqU",
+      "kind": "youtube#video",
+      "likeCount": 1,
+      "localized": {
+        "description": "In this video, you will learn how to: \n-Use the Shell tool\n-Make ribs\n-Create reference parts...",
+        "title": "TP5 Complex part 1"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-01-30T16:52:34Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/Slm8e63pJqU/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "TP5 Pièce complexe Partie 1",
+      "viewCount": 24
     },
     {
       "commentCount": 3,
@@ -1769,7 +2436,99 @@
         "width": 480
       },
       "title": "TP4 CAO ENSPD(Réalisation d'une bouteille sur SolidWorks)",
-      "viewCount": 624
+      "viewCount": 787
+    },
+    {
+      "commentCount": 0,
+      "description": "Apprenez grâce à cette vidéo à utiliser des fonctions de symétrie et de répétitions",
+      "duration": "PT34M4S",
+      "featured": false,
+      "id": "QE0xyucMpKk",
+      "kind": "youtube#video",
+      "likeCount": 4,
+      "localized": {
+        "description": "Learn how to use symmetry and repetition functions in this video",
+        "title": "TP3 CAO ENSPD"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-01-11T19:15:13Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/QE0xyucMpKk/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "TP3 CAO ENSPD",
+      "viewCount": 67
+    },
+    {
+      "commentCount": 0,
+      "description": "Dans cette vidéo, nous allons réaliser une pièce qui va nous permettre d'appliquer et comprendre des fonctions de SolidWorks telles que:\n-Extrusion avec révolution\n-Congé\n-Chanfrein",
+      "duration": "PT14M32S",
+      "featured": false,
+      "id": "g_ItQ7DxDWk",
+      "kind": "youtube#video",
+      "likeCount": 2,
+      "localized": {
+        "description": "In this video, we are going to make a part that will allow us to apply and understand SolidWorks functions such as:\n-Extrusion with revolution\n-Leave\n-Chamfer",
+        "title": "Realization of a part by extrusion with revolution"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-01-05T15:28:21Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/g_ItQ7DxDWk/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Réalisation d'une pièce par extrusion avec révolution",
+      "viewCount": 77
+    },
+    {
+      "commentCount": 0,
+      "description": "",
+      "duration": "PT18M17S",
+      "featured": false,
+      "id": "ZER27lTktiw",
+      "kind": "youtube#video",
+      "likeCount": 1,
+      "localized": {
+        "description": null,
+        "title": "Simple BRICK Drawing and Layout"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2022-01-02T15:00:10Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/ZER27lTktiw/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Dessin BRIQUE simple et Mise en plan",
+      "viewCount": 93
+    },
+    {
+      "commentCount": 2,
+      "description": "",
+      "duration": "PT2M27S",
+      "featured": false,
+      "id": "dBlXysmFXn8",
+      "kind": "youtube#video",
+      "likeCount": 10,
+      "localized": {
+        "description": null,
+        "title": "You are at risk of becoming unemployed"
+      },
+      "privacyStatus": "public",
+      "publishedAt": "2020-09-18T20:04:48Z",
+      "statsViewable": true,
+      "thumbnail": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/dBlXysmFXn8/hqdefault.jpg",
+        "width": 480
+      },
+      "title": "Tu risque devenir chomeur",
+      "viewCount": 92
     }
   ]
 }
